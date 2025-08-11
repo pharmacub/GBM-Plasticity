@@ -31,7 +31,7 @@ This project aims to **uncover the molecular mechanisms underlying GBM plasticit
 ### 2. Functional Multi-Omics Profiling (ongoing)
 - Selected the most heterogeneous sample (based on CD24/CD44 expression) for detailed profiling.
 - Performed **RNA-seq** and **proteomics profiling** on four CD24/CD44-sorted subpopulations.
-- Integrated datasets to:
+- Integrating datasets to:
   - Identify RNA/protein co-regulated genes.
   - Reveal post-transcriptional regulation.
   - Highlight pathways linked to GBM plasticity.
