@@ -1,9 +1,3 @@
----
-output: html_document
-editor_options: 
-  chunk_output_type: console
----
-
 ## Metamodules
 
 With this script we built a score from a signature of genes and looked at its expression in cells as if it were a single gene.
