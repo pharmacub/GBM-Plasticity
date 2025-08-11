@@ -1,11 +1,3 @@
----
-title: "harmony"
-output: html_document
-date: "2024-06-10"
-editor_options: 
-  chunk_output_type: console
----
-
 In single-cell RNA sequencing (scRNA-seq) experiments, data integration refers to the process of combining and harmonizing gene expression data from multiple samples or datasets into a single integrated dataset. This integration is necessary when dealing with scRNA-seq data from different experimental conditions, biological replicates, or sequencing batches, which may exhibit technical variations or batch effects.
 
 The goal of data integration in scRNA-seq is to find common cell subgroups across both datasets. Determine markers indicative of cell types that remain consistent in both control and stimulated cells. Analyze the datasets to pinpoint how different cell types respond uniquely to stimulation.
