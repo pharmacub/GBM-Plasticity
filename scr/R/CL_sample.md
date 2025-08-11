@@ -1,12 +1,3 @@
----
-title: "sample_1"
-output: github_document
-date: 
-editor_options:
-  chunk_output_type: console
----
-
-
 ```r
 
 # Load Libraries
