@@ -28,9 +28,9 @@ This project aims to **uncover the molecular mechanisms underlying GBM plasticit
 - Used **CellRank** for trajectory inference to identify dynamic gene expression changes.
 - Discovered **CD44** (MES) and **CD24** (NPC-like) as surface markers for state enrichment.
 
-### 2. Functional Multi-Omics Profiling
+### 2. Functional Multi-Omics Profiling (ongoing)
 - Selected the most heterogeneous sample (based on CD24/CD44 expression) for detailed profiling.
-- Performed **RNA-seq** and **proteomics** on four CD24/CD44-sorted subpopulations.
+- Performed **RNA-seq** and **proteomics profiling** on four CD24/CD44-sorted subpopulations.
 - Integrated datasets to:
   - Identify RNA/protein co-regulated genes.
   - Reveal post-transcriptional regulation.
